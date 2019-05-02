@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+	<!-- bai viet hot  moi nhat ben trai -->
+	<news>
+		<live>
+			<isLive>true</isLive>
+			
+		</live>
+		<views>10000</views>
+		<hotNew>
+			<ishotNew>true</ishotNew>
+			<imgAttachment>
+				<imgBanner>
+					"https://i-vnexpress.vnecdn.net/2019/05/02/8041049cde933bcd6282-155676216-4636-3871-1556762545_r_500x300.jpg"
+				</imgBanner>
+			</imgAttachment>
+		</hotNew>
+		
+		<date>2019-05-02T09:00:00</date>
+		<slug>ong-cao-duc-phat-nong-nghiep-can-dua-chu-yeu-vao-doanh-nghiep-tu-nhan-de-phat-trien</slug>
+		<id>3917226</id>
+		<blogTitle>Ông Cao Đức Phát: 'Nông nghiệp cần dựa chủ yếu vào doanh nghiệp tư nhân để phát triển'</blogTitle>
+		<shortDescription>
+			Hội thảo chuyên đề Nông nghiệp thuộc Diễn đàn Kinh tế tư nhân 2019 bắt đầu từ 8h30 sáng nay 2/5 với sự tham gia của hàng trăm chuyên gia, nhà quản lý và các doanh nghiệp. 
+		</shortDescription>
+		<video>
+			<hasVideo>true</hasVideo>
+		</video>
+		<galleryNews>
+			<isGallery>false</isGallery>
+		</galleryNews>
+		<cactegorySlug>thoi-su</cactegorySlug>
+		<cactegoryName>thời sự</cactegoryName>
+		<relatedNews>
+			<hasRelated>true</hasRelated>
+			<relatedSlug>doanh-nghiep-co-the-hien-ke-online-cho-dien-dan-kinh-te-tu-nhan-lon-nhat-viet-nam</relatedSlug>
+			<relatedName>Doanh nghiệp có thể hiến kế 'online' cho diễn đàn kinh tế tư nhân lớn nhất Việt Nam</relatedName>
+			<id>3917194</id>
+			<cactegorySlug>kinh-doanh</cactegorySlug>
+		</relatedNews>
+	</news>
+	<!-- bai viet moi nhat ben phai, có 1 list các bài viết khác sẽ tương tự như thế , mục hotNew = false -->
+	<news> 
+		<live>
+			<isLive>true</isLive>
+		</live>
+		<views>900</views>
+		<hotNew>
+			<ishotNew>false</ishotNew>
+			
+		</hotNew>
+		<date>2019-05-02T09:00:00</date>
+		<slug>tim-cook-ipad-la-su-lua-chon-ua-thich-cua-phi-cong</slug>
+		<id>3917304</id>
+		<blogTitle>Tim Cook: 'iPad là sự lựa chọn ưa thích của phi công</blogTitle>
+		<shortDescription>
+			CEO Apple Tim Cook cho biết iPad đang được sử dụng trong buồng lái máy bay của 450 hãng hàng không trên thế giới.
+		</shortDescription>
+		<video>
+			<hasVideo>false</hasVideo>
+		</video>
+		<galleryNews>
+			<isGallery>false</isGallery>
+		</galleryNews>
+		<cactegorySlug>so-hoa</cactegorySlug>
+		<cactegoryName>số hóa</cactegoryName>
+		<relatedNews>
+			<hasRelated>false</hasRelated>
+			<relatedSlug></relatedSlug>
+			<relatedName></relatedName>
+			<id></id>
+			<cactegorySlug></cactegorySlug>
+		</relatedNews>
+	</news>
+
+</blog>
